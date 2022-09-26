@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hi there I'm Ashan From Sri Lanka.👋 Basically a Musician with an Interest for Web Development.
 
 <!--
 **ashan1979/ashan1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... ![image](https://user-images.githubusercontent.com/107090752/192316463-54989da7-3cb6-4b2e-9383-cf1bfbba62b5.png)
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
