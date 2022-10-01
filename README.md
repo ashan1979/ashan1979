@@ -10,7 +10,7 @@ Currently Working on Basic Tools Like HTML CSS & JavaScript
 *   ✉️  You can contact me at [indrajee79@gmail.com](mailto:indrajee79@gmail.com)
 *   🧠  I'm learning Website Builds and JavaScript Tools Taught by YouTube Teachers.
 *   ⚡  I'm Currently a Fulltime Musician Playing Guitars for a Cover Band, Studio Session Work and i also Teach Guitar. 25 year Vet.<a href="https://www.github.com/ashan1979" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/ashan1979?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>### Skills 
+                  src="https://img.shields.io/github/followers/ashan1979?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
