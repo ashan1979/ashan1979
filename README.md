@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is "Ashan"
 ======================================================================================================================================
 
-I'm a Web Developer Student
+Just a Curious Guy About It and Development!
 ---------------------------
 
-Currently Working on Learning Basic FrontEnd Tools Like HTML CSS & JavaScript
+Currently Working on Learning Python!
 
 * 🌍  I'm based in Colombo Sri Lanka
 * ✉️  You can contact me at [indrajee79@gmail.com](mailto:indrajee79@gmail.com)
-* 🧠  I'm learning Website Builds and JavaScript Tools Taught by YouTube Teachers.
-* ⚡  I'm Currently a Fulltime Musician Playing Guitars for a Cover Band, Studio Session Work and i also Teach Guitar. 25 year Vet.
+* 🧠  I'm learning Currently Working on 100 days of Python Code in Udemy and Hope to Dip into Ethical Hacking Later.
+* ⚡  I'm Currently a Fulltime Musician Playing Guitars for a Cover Band, Studio Session Work and i also Teach Guitar. 25 year Experience there.
 
 <a href="https://www.github.com/ashan1979" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ashan1979?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
