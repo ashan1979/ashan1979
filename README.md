@@ -8,8 +8,8 @@ Currently Working on Learning Python!
 
 * 🌍  I'm based in Colombo Sri Lanka
 * ✉️  You can contact me at [indrajee79@gmail.com](mailto:indrajee79@gmail.com)
-* 🧠  I'm learning Currently Working on 100 days of Python Code in Udemy and Hope to Dip into Ethical Hacking Later.
-* ⚡  I'm Currently a Fulltime Musician Playing Guitars for a Cover Band, Studio Session Work and i also Teach Guitar. 25 year Experience there.
+* 🧠  I'm Currently Working on 100 days of Python Code in Udemy and Some Other Python and Linux Tutorials on the side. Hope to Dip into Ethical Hacking Later.
+* ⚡  I'm Currently a Fulltime Musician Playing Guitars for a Cover Band, Studio Session Work and i also Teach Guitar. 25 year Experience in there.
 
 <a href="https://www.github.com/ashan1979" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ashan1979?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
